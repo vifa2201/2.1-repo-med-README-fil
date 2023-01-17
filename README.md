@@ -1,1 +1,2 @@
 # Skapa konto och repository med README-fil
+I denna uppgift ska ett remote repository med hjälp av git och github skapas. Detta i syfte att förstå syftet med versionshanteringssystem och kunna använda Git. 
